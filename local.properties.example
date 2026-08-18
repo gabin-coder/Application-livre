@@ -1,0 +1,6 @@
+# Copy this file to "local.properties" and set it to your Android SDK path,
+# OR just let Android Studio create it automatically the first time you open the project.
+# Examples:
+# Windows: sdk.dir=C\:\\Users\\VotreNom\\AppData\\Local\\Android\\Sdk
+# macOS:   sdk.dir=/Users/VotreNom/Library/Android/sdk
+# Linux:   sdk.dir=/home/VotreNom/Android/Sdk
